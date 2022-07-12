@@ -5,7 +5,7 @@
 This package contains type definitions for jQueryUI (http://jqueryui.com/).
 
 # Details
-Files were exported from https://github.com/amiriahmad72/jquery-ui.
+Files were exported from https://github.com/amiriahmad72/jquery-ui-typescript.
 
 ### Additional Details
  * Last updated: Tue, 06 Jul 2021 21:33:45 GMT
