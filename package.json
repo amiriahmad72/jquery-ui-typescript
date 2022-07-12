@@ -31,5 +31,5 @@
     "dependencies": {
         "@types/jquery": "*"
     },
-    "typeScriptVersion": "1.0"
+    "typeScriptVersion": "3.6"
 }
